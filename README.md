@@ -1,7 +1,5 @@
 ```compiler
+first install  less with this command  'npm install -g less'
+second install less-watch compiler 'npm install -g less-watch-compiler'
 less-watch-compiler assets/less assets/css style.less --include-hidden
-@baseDir: đường dẫn đến thư mục assets
-@font-family-sans-serif: bộ font sans-serif để làm font dự bị.
-@font-family-name__base: Tên font chính của design.
-@font-family__base: font chính và font dự bị để sử dụng.
 ```

@@ -638,7 +638,7 @@ body {
 .header {
   width: 100%;
   min-height: 950px;
-  background-image: url(../../../assets/images/banner.png);
+  background-image: url(./../../../assets/images/banner.png);
   background-repeat: no-repeat, no-repeat;
   background-size: cover;
   height: 849px;
